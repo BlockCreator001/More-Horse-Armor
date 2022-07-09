@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "IWI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:copper_ingot"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "morehorsearmor:copper_horse_armor"
+  }
+}

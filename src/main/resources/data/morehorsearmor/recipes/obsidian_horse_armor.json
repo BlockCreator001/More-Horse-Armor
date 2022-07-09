@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "IWI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:obsidian"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "morehorsearmor:obsidian_horse_armor"
+  }
+}

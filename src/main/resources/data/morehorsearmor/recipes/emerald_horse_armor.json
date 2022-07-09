@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "III",
+    "IWI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:emerald"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "morehorsearmor:emerald_horse_armor"
+  }
+}
